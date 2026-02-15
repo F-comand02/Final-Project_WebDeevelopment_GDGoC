@@ -22,10 +22,10 @@ const Catalog = () => {
           <input 
             type="text" 
             placeholder="Search tech..." 
-            className="w-full glass py-3 px-10 rounded-2xl outline-none focus:ring-2 focus:ring-cyan-400 text-white"
+            className="w-full glass py-3 px-10 rounded-2xl outline-none focus:ring-2 focus:ring-cyan-400 text-black"
             onChange={(e) => setSearch(e.target.value)}
           />
-          <svg className="w-5 h-5 absolute left-3 top-3.5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
+          <svg className="w-5 h-5 absolute left-3 top-3.5 text-black-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
         </div>
         
         <div className="flex gap-2 overflow-x-auto w-full md:w-auto pb-2">
