@@ -70,8 +70,8 @@ Dalam project ini, saya telah mengimplementasikan:
 
 | **Jenis** | **Gambar** |
 | :--- | :---: |
-| **Mobile** | ![Mobile](https://github.com/user-attachments/assets/ea3e1981-89f8-4362-8811-f78960f278e9)|
-| **Dekstop** | ![Dekstop](https://github.com/user-attachments/assets/b8236bf0-e959-418f-8ce4-26dc6b30f3ab)|
+| **Mobile** | ![Mobile](https://github.com/user-attachments/assets/5f733390-9599-4480-ae8d-1e1018021dab)|
+| **Dekstop** | ![Dekstop](https://github.com/user-attachments/assets/069b3a52-5619-4867-b5ae-6ca7a37826e4)|
 
 
 ---
